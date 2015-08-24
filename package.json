@@ -1,6 +1,6 @@
 {
   "name": "shim-console",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A shim for the global console object. It will do nothing if the console object exists",
   "main": "index.js",
   "scripts": {
