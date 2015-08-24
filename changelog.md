@@ -1,12 +1,7 @@
 
-# jq-trim - Changelog
-## v0.1.1
-- **Build Scripts Changes**
-  - Update dependencies and build scripts - [c6afc4d]( https://github.com/royriojas/jq-trim/commit/c6afc4d ), [royriojas](https://github.com/royriojas), 30/07/2015 15:00:50
-
-    
+# shim-console - Changelog
 ## v0.1.0
 - **Features**
-  - first working version - [e586662]( https://github.com/royriojas/jq-trim/commit/e586662 ), [royriojas](https://github.com/royriojas), 25/07/2015 01:44:18
+  - First working version - [204a3a7]( https://github.com/royriojas/shim-console/commit/204a3a7 ), [Roy Riojas](https://github.com/Roy Riojas), 24/08/2015 02:12:02
 
     
